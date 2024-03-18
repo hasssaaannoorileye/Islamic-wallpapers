@@ -30,6 +30,230 @@ function paginatedResults(model) {
 
 const wallpapers = [
   {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/02/22/14/05/lantern-8590230_150.png",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/02/22/14/05/lantern-8590230_1280.png",
+    "pageUrl": "https://pixabay.com/illustrations/lantern-sufi-sufism-passion-8590230/",
+    "tags": "lantern sufi sufism passion ramadan islam religion arab ai generated",
+    "description": "lantern sufi sufism passion ramadan islam religion arab ai generated, latest"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/12/15/33/mosque-8629024_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/12/15/33/mosque-8629024_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/mosque-islamic-architecture-arches-8629024/",
+    "tags": "mosque islamic architecture arches mystical ambiance warm glow islamic mosque arabic architecture ramadan islam muslim palace moon",
+    "description": "mosque islamic architecture arches mystical ambiance warm glow islamic mosque arabic architecture ramadan islam muslim palace moon latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/71/2a/a2/712aa2af4cb7b95ac252dea2c76cde3b.jpg",
+    "fullUrl": "https://i.pinimg.com/564x/71/2a/a2/712aa2af4cb7b95ac252dea2c76cde3b.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/600315825358752301/",
+    "tags": "Premium PSD | Ramadan kareem with lantern and islamic background",
+    "description": "Premium PSD | Ramadan kareem with lantern and islamic background latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/cf/8a/43/cf8a43a8a21b961b42699aa56bf0e7be.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/cf/8a/43/cf8a43a8a21b961b42699aa56bf0e7be.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/192036371605489630/",
+    "tags": "ramadan night islamic latest",
+    "description": "ramadan night islamic latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/28/be/67/28be674acd35d4b35d46313d53f18759.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/28/be/67/28be674acd35d4b35d46313d53f18759.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/257549672433621532/",
+    "tags": "ramadan mubark",
+    "description": "ramadan mubarak islamic ai generated ai mosques latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/8f/dd/a6/8fdda61b8c0007401648008d1404deed.jpg",
+    "fullUrl": "https://i.pinimg.com/474x/8f/dd/a6/8fdda61b8c0007401648008d1404deed.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/1196337402231861/",
+    "tags": "ramadan karim",
+    "description": "ramdan karim latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/7c/42/19/7c421994cd7a4eaa403b0202aad66f5e.jpg",
+    "fullUrl": "https://i.pinimg.com/474x/7c/42/19/7c421994cd7a4eaa403b0202aad66f5e.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/6966574417788277/",
+    "tags": "mosques",
+    "description": "mosques ai generated latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/d0/c6/13/d0c613fd17dfd965989da8b06aa31ded.jpg",
+    "fullUrl": "https://i.pinimg.com/564x/d0/c6/13/d0c613fd17dfd965989da8b06aa31ded.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/17592254790558603/",
+    "tags": "ramadan mosque",
+    "description": "ramadan mosques latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/57/69/15/57691534e87947960ea1d716ca3a9a3c.jpg",
+    "fullUrl": "https://i.pinimg.com/564x/57/69/15/57691534e87947960ea1d716ca3a9a3c.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/5348093301731449/",
+    "tags": "islamic mosques ramadan night latest",
+    "description": "islamic mosques ramadan night latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/a8/0e/14/a80e142d377eed5ac345f6ba17ed2c81.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/a8/0e/14/a80e142d377eed5ac345f6ba17ed2c81.png",
+    "pageUrl": "https://www.pinterest.com/pin/5348093301731451/",
+    "tags": "islamic mosques ramadan night latest",
+    "description": "islamic mosques ramadan night latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/b0/fc/fb/b0fcfb18511ba3cdf88330d58be12641.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/b0/fc/fb/b0fcfb18511ba3cdf88330d58be12641.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/14566398791210557/",
+    "tags": "islamic mosques ramadan night latest",
+    "description": "islamic mosques ramadan night latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/16/2f/d3/162fd31d373d92937b81ce4b56821ad4.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/16/2f/d3/162fd31d373d92937b81ce4b56821ad4.png",
+    "pageUrl": "https://www.pinterest.com/pin/88242473944117416/",
+    "tags": "islamic wallpaper mosque dusk desert latest",
+    "description": "islamic wallpaper mosque dusk desert latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/bc/3f/15/bc3f1533e2d24c5b893d2c183e577089.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/bc/3f/15/bc3f1533e2d24c5b893d2c183e577089.png",
+    "pageUrl": "https://www.pinterest.com/pin/25332816646241990/",
+    "tags": "islamic wallpaper mosque dusk desert latest palm tree ai generated",
+    "description": "islamic wallpaper mosque dusk desert latest palm tree ai generated"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/b5/79/df/b579dfa29571cd9e4e728369e049ff09.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/b5/79/df/b579dfa29571cd9e4e728369e049ff09.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/21181060739145059/",
+    "tags": "background islamic mosque",
+    "description": "background islamic mosque art latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/f2/16/6f/f2166fa301bc832b03099315e03f352e.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/f2/16/6f/f2166fa301bc832b03099315e03f352e.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/9570217950902118/",
+    "tags": "art desert",
+    "description": "art desert islamic latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/59/99/4f/59994f1a0edc1cc16f4575b5f31b532e.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/59/99/4f/59994f1a0edc1cc16f4575b5f31b532e.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/18507048461617342/",
+    "tags": "ramdan karim ",
+    "description": "wallpaper ramadan karim mubarak latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/84/84/9b/84849b638020137183c3416d2f8248ba.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/84/84/9b/84849b638020137183c3416d2f8248ba.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/340655159326608362/",
+    "tags": "welcoming ramadan",
+    "description": "welcoming ramadan latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/78/49/f8/7849f87cd4db674d6a1eb5a15cd1b8c2.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/78/49/f8/7849f87cd4db674d6a1eb5a15cd1b8c2.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/5488830790345353/",
+    "tags": "islamic background greentexturedesignpatternabstract",
+    "description": "islamic wallpaper and background ramadan latest greentexturedesignpatternabstract"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/564x/82/cd/01/82cd0117402d05b554260967ffdb8d6f.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/82/cd/01/82cd0117402d05b554260967ffdb8d6f.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/132715520261635063/",
+    "tags": "eid mubarak",
+    "description": "eid mubarak ramdan mubarak latest wallpaper"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/b2/f6/62/b2f66232b42ae9fcd6443031b74992f7.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/b2/f6/62/b2f66232b42ae9fcd6443031b74992f7.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/827255025331415512/",
+    "tags": "ramadan mubarak black islamic wallpaper filter",
+    "description": "ramadan mubarak black islamic wallpaper filter"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/97/48/41/974841bafc5a00fcd102e5b09b2dbf17.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/97/48/41/974841bafc5a00fcd102e5b09b2dbf17.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/129408189286402745/",
+    "tags": "ramadan mubarak black islamic wallpaper filter",
+    "description": "ramadan mubarak black islamic wallpaper filter texture"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/ac/7f/12/ac7f125fede3f1cd126f964d2bb97130.jpg",
+    "fullUrl": "https://i.pinimg.com/736x/ac/7f/12/ac7f125fede3f1cd126f964d2bb97130.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/657525614371770310/",
+    "tags": "#arabiccalligraphy #calligraphy #art #arabic #islamicart #islamiccalligraphy #calligraphyart #arabicart #islam #artist #allah #quran #islamic #arabiccalligraphyart #calligraphylettering #artwork",
+    "description": "#arabiccalligraphy #calligraphy #art #arabic #islamicart #islamiccalligraphy #calligraphyart #arabicart #islam #artist #allah #quran #islamic #arabiccalligraphyart #calligraphylettering #artwork filter"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/d7/ac/1f/d7ac1fbc094c853efece0e8277dd2cfc.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/d7/ac/1f/d7ac1fbc094c853efece0e8277dd2cfc.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/200621358393456350/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah flowers latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/52/44/33/52443352432d8f0b18a8f8125773db40.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/52/44/33/52443352432d8f0b18a8f8125773db40.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/123075002311254580/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah flowers latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/b2/25/40/b2254006b3c2ef697e81db53dde1b811.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/b2/25/40/b2254006b3c2ef697e81db53dde1b811.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/72690981479723368/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah flowers latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/e8/6f/91/e86f9124b5501ce5dc58e3e36ecb3531.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/e8/6f/91/e86f9124b5501ce5dc58e3e36ecb3531.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/80642649572013540/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah flowers latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/0c/5a/a2/0c5aa2662a38eca35727eb15010245f6.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/0c/5a/a2/0c5aa2662a38eca35727eb15010245f6.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/5348093302210933/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah texture abstract latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/b2/43/35/b2433559612ab71c227b24d327a72075.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/b2/43/35/b2433559612ab71c227b24d327a72075.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/5348093302210934/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper prophet mohamed texture abstract latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/ea/66/d9/ea66d9deecb717cec25f443c998be55d.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/ea/66/d9/ea66d9deecb717cec25f443c998be55d.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/200621358393260244/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper red flower allah latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/ac/d4/c6/acd4c680aae07bc7571c0486970bd259.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/ac/d4/c6/acd4c680aae07bc7571c0486970bd259.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/200621358393109364/",
+    "tags": "islamic wallpaper",
+    "description": "islamic wallpaper allah latest"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/3d/c7/d8/3dc7d86a131e44c2c959babd3d9449c4.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/3d/c7/d8/3dc7d86a131e44c2c959babd3d9449c4.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/609604499593830273/",
+    "tags": "islamic",
+    "description": " islamic wallpaper prophet mohamed popular"
+  },
+    {
+    "thumbUrl": "https://i.pinimg.com/474x/44/8f/8c/448f8c985f86d92cd8ad99c494bd8294.jpg",
+    "fullUrl": "https://i.pinimg.com/originals/44/8f/8c/448f8c985f86d92cd8ad99c494bd8294.jpg",
+    "pageUrl": "https://www.pinterest.com/pin/5348093302288004/",
+    "tags": "islamic",
+    "description": " islamic wallpaper prophet mohamed popular"
+  },
+    {
     "thumbUrl": "https://i.pinimg.com/564x/53/f4/90/53f4903a066ea1c190f113bafb751b4d.jpg",
     "fullUrl": "https://i.pinimg.com/originals/53/f4/90/53f4903a066ea1c190f113bafb751b4d.jpg",
     "pageUrl": "https://in.pinterest.com/pin/566116615676793849/",
