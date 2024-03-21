@@ -30,6 +30,111 @@ function paginatedResults(model) {
 
 const wallpapers = [
   {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635245_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635245_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-ramadan-eid-8635245/",
+    "tags": "wallpaper islamic",
+    "description": "ai generated ramadan eid eid-ul-fitr iftar togetherness enjoyment arabian background festive holy quran lamp lantern mosque mubarak muslim religion religious tradition latest"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635230_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635230_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-ramadan-eid-8635230/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated ramadan eid eid-ul-fitr iftar togetherness enjoyment arabian background festive holy quran lamp lantern mosque mubarak muslim religion religious tradition"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635225_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ai-generated-8635225_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-ramadan-eid-8635225/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated ramadan eid eid-ul-fitr iftar togetherness enjoyment arabian background festive holy quran lamp lantern mosque mubarak muslim religion religious tradition pattern"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ramadan-8635226_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ramadan-8635226_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ramadan-eid-ul-fitr-eating-iftar-8635226/",
+    "tags": " wallpaper islamic",
+    "description": "latest ramadan eid-ul-fitr eating iftar dinner ramadan kareem togetherness people enjoyment happiness arabian background festive holy quran lamp lantern mosque mubarak muslim ramazan religion religious tradition ai generated"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ramadan-8635233_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/15/15/23/ramadan-8635233_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ramadan-eid-ul-fitr-eating-iftar-8635233/",
+    "tags": " wallpaper islamic",
+    "description": "latest ramadan eid-ul-fitr eating iftar dinner ramadan kareem togetherness people enjoyment happiness arabian background festive holy quran lamp lantern mosque mubarak muslim ramazan religion religious tradition ai generated"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/02/20/08/17/ai-generated-8584909_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/02/20/08/17/ai-generated-8584909_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-building-islam-8584909/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated mosque building night sky islam islamic muslim architecture dome nature ramadan eid quran minaret sky moon holy week ramadan mubarak silhouette"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/05/19/38/ai-generated-8615178_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/05/19/38/ai-generated-8615178_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-islam-islamic-8615178/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated mosque islam islamic muslim architecture religion turkey istanbul"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/05/19/38/ai-generated-8615177_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/05/19/38/ai-generated-8615177_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-islam-islamic-8615177/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated mosque islam islamic muslim architecture religion"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/12/15/29/ai-generated-8629019_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/12/15/29/ai-generated-8629019_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-ramadan-lantern-ornate-8629019/",
+    "tags": " wallpaper islamic",
+    "description": "ai generated ramadan lantern ornate warm light celestial pattern stars muslim islam religion arabic islamic festival popular"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/01/27/09/46/ai-generated-8535605_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/01/27/09/46/ai-generated-8535605_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-islamic-8535605/",
+    "tags": " wallpaper islamic",
+    "description": "ai generated mosque islamic istanbul muslim architecture religion building dome prayer ramadan culture casablanca night evening latest"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/03/06/08/56/ai-generated-8616062_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/03/06/08/56/ai-generated-8616062_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-islam-islamic-8616062/",
+    "tags": " wallpaper islamic",
+    "description": "ai generated mosque islam islamic muslim culture religion ramadan architecture prayer pray forest sunset fog mountains scenery nature rural landscape popular"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/02/17/11/06/ai-generated-8579117_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/02/17/11/06/ai-generated-8579117_1280.jpg",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-palestine-gaza-boy-8579117/",
+    "tags": " wallpaper islamic",
+    "description": "ai generated palestine gaza boy portrait crack latest"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/01/20/07/05/ai-generated-8520470_150.png",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/01/20/07/05/ai-generated-8520470_1280.png",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-mosque-building-8520470/",
+    "tags": " wallpaper islamic",
+    "description": "latest ai generated mosque building islamic architecture religion tourism prayer ramadan travel islam"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2024/02/09/11/27/ai-generated-8562917_150.png",
+    "fullUrl": "https://cdn.pixabay.com/photo/2024/02/09/11/27/ai-generated-8562917_1280.png",
+    "pageUrl": "https://pixabay.com/illustrations/ai-generated-masjid-mosque-heart-8562917/",
+    "tags": " wallpaper islamic",
+    "description": "ai generated masjid mosque heart ramadan islamic islam muslim religion moon arabic culture religious holy silhouette traditional worship night nature crescent moon stars lanterns impressionist painting ornate latest"
+  },
+    {
+    "thumbUrl": "https://cdn.pixabay.com/photo/2020/05/09/01/17/ramadan-5147806_150.jpg",
+    "fullUrl": "https://cdn.pixabay.com/photo/2020/05/09/01/17/ramadan-5147806_1280.jpg",
+    "pageUrl": "https://pixabay.com/photos/ramadan-craving-kaaba-5147806/",
+    "tags": " wallpaper islamic",
+    "description": " ramadan craving kaaba the pilgrim's guide mecca islam religion cami city the crowd worship qibla tawaf makkah architecture people sacred religious popular"
+  },
+    {
     "thumbUrl": "https://i.pinimg.com/474x/77/04/5f/77045fdf3e3261aeb969ecdac3515874.jpg",
     "fullUrl": "https://i.pinimg.com/564x/77/04/5f/77045fdf3e3261aeb969ecdac3515874.jpg",
     "pageUrl": "https://www.pinterest.com/pin/1043709282380567502/",
